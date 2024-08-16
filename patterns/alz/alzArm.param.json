@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Live"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Live"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Live"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Live"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Live"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Live"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -48,19 +48,19 @@
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
-      "value": ""
+      "value": "No"
     },
     "userAssignedManagedIdentityName": {
       "value": "id-amba-prod-001"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "59817557-e2cf-43c9-9bca-fc82f308e8d4"
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "northeurope"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
@@ -68,7 +68,7 @@
       }
     },
     "ALZMonitorActionGroupEmail": {
-      "value": ""
+      "value": "manage1@clouddzz.co.uk, al.neary@cloudzz.co.uk"
     },
     "ALZLogicappResourceId": {
       "value": ""
