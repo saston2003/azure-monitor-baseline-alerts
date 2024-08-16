@@ -1,7 +1,7 @@
 variables:
   location: "northeurope"
-  ManagementGroupPrefix: "contoso"
-  serviceConnectionName: "AMBA-Service-Connection"
+  ManagementGroupPrefix: "Live"
+  serviceConnectionName: "MDSNsub"
 
 pool:
   vmImage: ubuntu-latest
