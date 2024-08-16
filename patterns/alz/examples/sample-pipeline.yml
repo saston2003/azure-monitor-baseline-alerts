@@ -1,7 +1,7 @@
 variables:
   location: "northeurope"
   ManagementGroupPrefix: "Live"
-  serviceConnectionName: "MDSNsub"
+  serviceConnectionName: "MSDNsub"
 
 pool:
   vmImage: ubuntu-latest
